@@ -4,7 +4,7 @@
 | 32bit md5 | 9355A516E9CD78FDE12CE445B0AE7F0C |
 | 64bit md5 | 76524DFDE8C4E0539210B65FBFF7AEB5 |
 | Updated   | 22/6/2023                        |
-| URL       | https://medlexo.is-an.app/       |
+| URL       | https://medlexo.sourceforge.io/  |
 
 |   | Features                                    | 功能                          |
 |---|---------------------------------------------|-------------------------------|
@@ -18,4 +18,4 @@
 | 8 | MP4 Compressor😍                           | MP4 压缩😍                   |
 | 9 | [lossless] audio extractor                  | [无损] 提取音轨               |
 
-[![medlexo lossless convert video to mp4](loseless-easy-convert-ts-to-mp4.png)](https://medlexo.is-an.app/)
+[![medlexo lossless convert video to mp4](loseless-easy-convert-ts-to-mp4.png)](https://medlexo.sourceforge.io/)
